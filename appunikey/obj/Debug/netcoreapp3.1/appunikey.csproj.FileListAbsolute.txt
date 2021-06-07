@@ -1,0 +1,15 @@
+C:\Users\ss1\source\repos\appunikey\appunikey\obj\Debug\netcoreapp3.1\appunikey.csprojAssemblyReference.cache
+C:\Users\ss1\source\repos\appunikey\appunikey\obj\Debug\netcoreapp3.1\appunikey.csproj.GenerateResource.cache
+C:\Users\ss1\source\repos\appunikey\appunikey\obj\Debug\netcoreapp3.1\appunikey.AssemblyInfoInputs.cache
+C:\Users\ss1\source\repos\appunikey\appunikey\obj\Debug\netcoreapp3.1\appunikey.AssemblyInfo.cs
+C:\Users\ss1\source\repos\appunikey\appunikey\obj\Debug\netcoreapp3.1\appunikey.csproj.CoreCompileInputs.cache
+C:\Users\ss1\source\repos\appunikey\appunikey\obj\Debug\netcoreapp3.1\appunikey.Form1.resources
+C:\Users\ss1\source\repos\appunikey\appunikey\bin\Debug\netcoreapp3.1\appunikey.exe
+C:\Users\ss1\source\repos\appunikey\appunikey\bin\Debug\netcoreapp3.1\appunikey.deps.json
+C:\Users\ss1\source\repos\appunikey\appunikey\bin\Debug\netcoreapp3.1\appunikey.runtimeconfig.json
+C:\Users\ss1\source\repos\appunikey\appunikey\bin\Debug\netcoreapp3.1\appunikey.runtimeconfig.dev.json
+C:\Users\ss1\source\repos\appunikey\appunikey\bin\Debug\netcoreapp3.1\appunikey.dll
+C:\Users\ss1\source\repos\appunikey\appunikey\bin\Debug\netcoreapp3.1\appunikey.pdb
+C:\Users\ss1\source\repos\appunikey\appunikey\obj\Debug\netcoreapp3.1\appunikey.dll
+C:\Users\ss1\source\repos\appunikey\appunikey\obj\Debug\netcoreapp3.1\appunikey.pdb
+C:\Users\ss1\source\repos\appunikey\appunikey\obj\Debug\netcoreapp3.1\appunikey.genruntimeconfig.cache
